@@ -1,0 +1,5 @@
+# ignore bin
+*/bin/**
+
+# vim files
+*.swp
